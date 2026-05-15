@@ -48,6 +48,5 @@ plt.plot(y, 'g', label = 'original price')
 plt.xlabel('Time')
 plt.ylabel('Price')
 plt.legend()
-plt.show()
 st.pyplot(fig)
 
