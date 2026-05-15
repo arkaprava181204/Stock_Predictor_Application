@@ -6,3 +6,4 @@ yfinance==1.0
 scikit-learn==1.8.0
 keras==3.11.3
 streamlit==1.52.2
+tensorflow-cpu
